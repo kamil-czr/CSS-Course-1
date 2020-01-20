@@ -4,14 +4,14 @@
 *
 ************************/
 
-body{
+#main-content p{
     color: red;
 }
 
-div{
-    color: blue;
+p{
+    color: palegreen;
 }
 
-p{
-    color: green;
+strong{
+    color: rebeccapurple;
 }
