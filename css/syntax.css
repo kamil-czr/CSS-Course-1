@@ -4,14 +4,10 @@
 *
 ************************/
 
-#main-content p{
-    color: red;
-}
-
 p{
-    color: palegreen;
+    color: red !important;
 }
 
-strong{
-    color: rebeccapurple;
+#main-content p{
+    color: seagreen;
 }
