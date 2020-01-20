@@ -4,10 +4,14 @@
 *
 ************************/
 
-span{
+body{
+    color: red;
+}
+
+div{
     color: blue;
 }
 
-span{
-    color: red;
+p{
+    color: green;
 }
