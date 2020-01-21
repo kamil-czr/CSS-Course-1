@@ -4,9 +4,15 @@
 *
 ************************/
 
-#header p{
-    text-transform: ;
+#header h1{
+    color: chocolate;
 }
-body > p{
-    text-transform: uppercase;
+
+#header h2{
+    color: #556655;
+    background-color: cornflowerblue;
 }
+
+
+
+
