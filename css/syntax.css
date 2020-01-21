@@ -5,9 +5,39 @@
 ************************/
 
 .box{
-    margin: 30px auto;
-    padding: 30px 25%;
-    border: 1px solid #000;
-    width: 300px;
+    margin: 20px;
+    padding: 20px;
+    float: left;
 }
 
+.dashed{
+    border: 10px  blue dashed;
+}
+
+.dotted{
+    border: 10px  blue dotted;
+}
+
+.double{
+    border: 10px  blue double;
+}
+
+.groove{
+    border: 10px blue groove;
+}
+
+.inset{
+    border: 10px blue inset;
+}
+
+.outset{
+    border: 10px  blue outset;
+}
+
+.ridge{
+    border: 10px  blue ridge;
+}
+
+.solid{
+    border: 10px blue solid;
+}
