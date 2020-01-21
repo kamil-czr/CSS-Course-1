@@ -4,6 +4,18 @@
 *
 ************************/
 
-#all-articles h2 + p{
+span[class]{
+    color: salmon;
+}
+
+div[id]{
+    background: gray;
+}
+
+a[title="Google"]{
     color: red;
+}
+
+a[href$="pdf"]{
+    color: greenyellow;
 }
