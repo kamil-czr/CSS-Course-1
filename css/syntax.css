@@ -4,7 +4,10 @@
 *
 ************************/
 
-article h2, article p{
-    font-family: fanty, Helvetica, Arial,  sans-serif;
+article{
+    text-decoration: overline;
 }
 
+a{
+    text-decoration: line-through;
+}
