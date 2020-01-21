@@ -4,25 +4,14 @@
 *
 ************************/
 
-#main-content div{
-    background-color: yellowgreen;
-    margin: 0 0 20px 0;
-}
 
 .static-width{
     width: 300px;
-    height: 100px;
-    border-radius: 5px ;
-}
-
-.percentage-width{
-    width: 70%;
-    height: 50px;
-    border-radius: 5px 10px 20px 40px;
-}
-
-.inline-block{
-    width: 100px;
-    height: 100px;
-    border-radius: 50px;
+    height: 300px;
+    border-radius: 5px;
+    background-color: teal;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaxofGVGLVmf_hQY4KDeE-IN0em9rqey9Ykijq07_xOvkx3aP&s);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
 }
