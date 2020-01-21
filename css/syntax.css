@@ -5,6 +5,7 @@
 ************************/
 
 p{
-    letter-spacing: 13px;
-    line-height: 30px;
+    font-size: 14px;
+    line-height: 2em;
+    margin-bottom: 32px;
 }
