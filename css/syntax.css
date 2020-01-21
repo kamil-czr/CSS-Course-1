@@ -4,10 +4,6 @@
 *
 ************************/
 
-article.featured-content{
-    background: crimson;
-}
-
-div.featured-content{
-    background: darkcyan;
+*{
+    color: darkgoldenrod;
 }
