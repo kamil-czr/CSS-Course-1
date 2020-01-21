@@ -4,11 +4,14 @@
 *
 ************************/
 
-article p:first-of-type{
-    color: peru;
+li:nth-child(1), li:nth-child(5){
     font-weight: bold;
 }
 
-article p:last-of-type{
-    color: red;
+li:nth-child(even){
+    background: rebeccapurple;
+}
+
+li:nth-child(odd){
+    background: royalblue;
 }
