@@ -4,8 +4,6 @@
 *
 ************************/
 
-#main-content #sub-content p{
-    color: blueviolet;
-    font-size: 15px;
-    font-family: cursive;
+#all-articles h2 + p{
+    color: red;
 }
