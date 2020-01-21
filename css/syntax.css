@@ -4,11 +4,9 @@
 *
 ************************/
 
-h1{
-    font-weight: normal;
+#header p{
+    text-transform: ;
 }
-
-p{
-    font-weight: 900;
-    font-family: fantasy;
+body > p{
+    text-transform: uppercase;
 }
