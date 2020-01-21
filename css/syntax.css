@@ -4,18 +4,10 @@
 *
 ************************/
 
-span[class]{
-    color: salmon;
-}
-
-div[id]{
-    background: gray;
-}
-
-a[title="Google"]{
+a:hover{
     color: red;
 }
 
-a[href$="pdf"]{
-    color: greenyellow;
+#main-content:hover{
+    color: red;
 }
