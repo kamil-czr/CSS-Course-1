@@ -4,15 +4,16 @@
 *
 ************************/
 
-#header h1{
-    color: chocolate;
+a{
+    color: darkcyan;
+    text-decoration: none;
+    font-weight: bold;
 }
 
-#header h2{
-    color: #556655;
-    background-color: cornflowerblue;
+a:hover{
+    color: darkmagenta;
+    text-decoration: underline;
+    background-color: darkturquoise;
 }
-
-
 
 
