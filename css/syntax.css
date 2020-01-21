@@ -4,10 +4,11 @@
 *
 ************************/
 
-article{
-    text-decoration: overline;
+h1{
+    font-weight: normal;
 }
 
-a{
-    text-decoration: line-through;
+p{
+    font-weight: 900;
+    font-family: fantasy;
 }
